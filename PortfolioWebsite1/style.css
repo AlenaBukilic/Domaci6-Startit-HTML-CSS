@@ -1,9 +1,9 @@
 /* 00. general */
 /* 01. header */
-
-
-
-
+/* 02. section */
+/* 03. footer */
+/* 04. about */
+/* 05. screen changes */
 
 /* 00. general */
 
@@ -171,7 +171,7 @@ span img {
     
 }
 
-/* 05. about */
+/* 04. about */
 
 .slika {
 	border-radius: 50%;
@@ -180,7 +180,7 @@ span img {
 	margin: 10% 25%;
 }
 
-/* 06. screen changes */
+/* 05. screen changes */
 
 @media screen and (min-width: 960px) {
 
